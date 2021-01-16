@@ -1,5 +1,3 @@
-## Coursera - HTML, CSS, and Javascript for Web Developers course from Johns Hopkins University
-
 ### Modules tasks 
 
 [Module2 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module2-solution)
