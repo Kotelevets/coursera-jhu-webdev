@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Coursera - HTML, CSS, and Javascript for Web Developers course from Johns Hopkins University
+### Module2 coding asignment 
+
+## Welcome to GitHub Pages https://github.com/Kotelevets/coursera-jhu-webdev/module2-solution
 
 You can use the [editor on GitHub](https://github.com/Kotelevets/coursera-test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
