@@ -7,6 +7,7 @@
 [Tasks](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments)
 
 [Module2 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module2-solution)
+[Module3 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module3-solution/)
 
 
 
