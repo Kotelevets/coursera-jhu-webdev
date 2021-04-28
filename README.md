@@ -8,6 +8,8 @@
 
 [Module2 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module2-solution)
 
+[Module3 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module3-solution/)
+
 
 
 For more details to markdown the page see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
