@@ -13,4 +13,6 @@
 [Module4 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module4-solution/)
 Press F12 and check console log
 
+[Module5 Solution](https://kotelevets.github.io/coursera-jhu-webdev/module5-solution/)
+
 For more details to markdown the page see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
